@@ -13,6 +13,9 @@
 		"url": "https://github.com/joakimkemeny/jke-neutrino-preset-react-mobx/issues"
 	},
 	"license": "Apache-2.0",
+	"files": [
+		"index.js"
+	],
 	"main": "index.js",
 	"author": "Joakim Kemeny",
 	"repository": {

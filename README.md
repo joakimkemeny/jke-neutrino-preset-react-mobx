@@ -7,7 +7,7 @@ This project provides a [Neutrino](https://neutrino.js.org) preset for building 
 
 Create a project with a `package.json` like this.
 
-```
+```javascript
 {
    "name": "myapp",
    "version": "1.0.0",

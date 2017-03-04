@@ -11,4 +11,4 @@ deploy:
     tags: true
     repo: joakimkemeny/jke-neutrino-preset-react-mobx
     branch: master
-    node: '6.10'
+    node: '6.10.0'

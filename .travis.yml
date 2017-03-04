@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+  - 7
+  - 6.10.0
+deploy:
+  provider: npm
+  email: joakim@kemeny.se
+  api_key:
+    secure: Ptck38pmWb8oXTvjhaVt3c9wFkWqBtIAmwyOqv6c75SPIDQ1sM6ETv+u+uLluU92splEIXwxIsiXQ19D/InCx8ImWV78vyST1JlDCzSPsARwVAuWgB7mLUmgCx++BlHO4KhVoEj/f/gd6RjP7//HdEY6pn6nX1skb+QOgwwkMIClWSUgFQDiuZb0tZmPxyYRaMXh52BoYiuO1WFMDJCVQoi2UPhAUk3AUiMxRfWI3urzox+rB+g8UlJh56TbGFM7r+QOMwh3s6wRMBkDsdRXdq9vGDjfGdT8ZIxmiH3mHqGyB7ljngQf98oe7fb1k6ZdOhVBgL7Uf6oF3zexI7GVk5WbFyGKW69A+QN/GpgKrKVF2mZmHsb9PyiPMWb0d4kX0P6wmsUWQPAnZVe8h137NtL1QcTmqsORg9Z/zlKuLYnRX6i9EKBQERqsZzPZ+85arHX8tEvfnA+VYZXD+lQHauUJ85472jeDMtLhin7I4Zzx3Wtrx2S/uYCdt9w6ZEkTNMTBkhHqQfN6duzRzrVTYOYIWWplg5VPCxbKDUHSqfqdkcJzRIJ34S2MmRx8dL68ZA1V/gIQ8LTFcxzOF+BgphpAhs9CRSFz04iLX/bt0laTcGlft+jVvXCSgrbIFqiPiprPxI//ieoQt8uaPx3UfURIprRrqObjrGGEr8JX2iM=
+  on:
+    tags: true
+    repo: joakimkemeny/jke-neutrino-preset-react-mobx
+    branch: master
+    node: '6.10.0'

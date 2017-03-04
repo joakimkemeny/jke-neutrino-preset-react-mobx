@@ -1,0 +1,36 @@
+{
+	"name": "jke-neutrino-preset-react-mobx",
+	"version": "0.1.0",
+	"description": "Neutrino preset for building React applications with MobX using decorators",
+	"keywords": [
+		"neutrino",
+		"neutrino-preset",
+		"react",
+		"mobx"
+	],
+	"homepage": "https://github.com/joakimkemeny/jke-neutrino-preset-react-mobx#readme",
+	"bugs": {
+		"url": "https://github.com/joakimkemeny/jke-neutrino-preset-react-mobx/issues"
+	},
+	"license": "Apache-2.0",
+	"main": "index.js",
+	"author": "Joakim Kemeny",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/joakimkemeny/jke-neutrino-preset-react-mobx.git"
+	},
+	"scripts": {
+		"test": "exit 0"
+	},
+	"dependencies": {
+		"babel-plugin-transform-class-properties": "^6.23.0",
+		"babel-plugin-transform-decorators-legacy": "^1.3.4",
+		"neutrino-preset-react": "^4.2.3"
+	},
+	"peerDependencies": {
+		"neutrino": ">=4.1.1"
+	},
+	"engines": {
+		"node": ">=6.10.0"
+	}
+}

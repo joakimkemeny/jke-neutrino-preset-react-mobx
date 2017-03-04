@@ -29,7 +29,7 @@ Create a project with a `package.json` like this.
    },
    "devDependencies": {
       "neutrino": "^4.3.1",
-      "neutrino-preset-react-mobx": "0.1.0"
+      "neutrino-preset-react-mobx": "0.1.1"
    }
 }
 ```

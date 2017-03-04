@@ -1,6 +1,6 @@
 {
 	"name": "jke-neutrino-preset-react-mobx",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Neutrino preset for building React applications with MobX using decorators",
 	"keywords": [
 		"neutrino",

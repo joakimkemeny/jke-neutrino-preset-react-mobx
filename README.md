@@ -1,3 +1,7 @@
+### _This repository is deprecated and archived_
+
+---
+
 # jke-neutrino-preset-react-mobx
 [![NPM version](https://img.shields.io/npm/v/jke-neutrino-preset-react-mobx.svg)](https://www.npmjs.com/package/jke-neutrino-preset-react-mobx) [![Build status](https://img.shields.io/travis/joakimkemeny/jke-neutrino-preset-react-mobx/master.svg)](https://travis-ci.org/joakimkemeny/jke-neutrino-preset-react-mobx)
 
